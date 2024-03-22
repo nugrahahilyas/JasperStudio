@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jsonDataAdapter class="net.sf.jasperreports.data.json.JsonDataAdapterImpl">
+  <name>mata</name>
+  <dataFile type="repositoryDataLocation">
+    <location>mata.json</location>
+  </dataFile>
+  <selectExpression></selectExpression>
+  <locale>en_ID</locale>
+  <timeZone>Asia/Bangkok</timeZone>
+  <useConnection>false</useConnection>
+  <language>json</language>
+</jsonDataAdapter>

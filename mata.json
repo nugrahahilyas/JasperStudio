@@ -1,0 +1,130 @@
+ {
+        "pasien": {
+            "no_rm": "OHI829000",
+            "nama": "Hindia",
+            "tgl_lahir": "2000-02-20",
+            "tgl_lahir_indo": "20 Februari 2000",
+            "kelamin": "Laki-laki",
+            "tgl_masuk": "2022-10-23",
+            "tgl_masuk_indo": "23 Oktober 2022",
+            "pkl_masuk": "20:01",
+            "tgl_asses": "2022-11-22",
+            "tgl_asses_indo": "22 November 2022",
+            "pkl_asses": "20:21",
+            "klinik": "Mata",
+            "ruang": "Saksi "
+        },
+        "anamnesis": {
+            "keluhan_utama": "Mata Sakit",
+            "penyakit_sekarang": "Sakit mata senut senut",
+            "penyakit_dahulu": "Tidak ada",
+            "penyakit_keluarga": "Katarak",
+            "penggunaan_obat": "Gele",
+            "alergi": "Tidak ada"
+        },
+        "pemeriksaan": {
+            "keadaan_umum": "Masih dapat melihat dengan baik tapi sakit",
+            "td": {
+                "sistole": 120,
+                "diastole": 80
+            },
+            "nadi": 23,
+            "irama": "Teratur",
+            "rr": 22,
+            "gcs": {
+                "e": 1,
+                "m": 2,
+                "v": 3
+            },
+            "suhu": 36,
+            "tb": 173,
+            "bb": 80,
+            "buta_warna": "Red Green Deficiency"
+        },
+        "periksa_mata": {
+            "visus": {
+                "right": "",
+                "left": ""
+            },
+            "koreksi": {
+                "right": "",
+                "left": ""
+            },
+            "adisi": {
+                "right": "",
+                "left": ""
+            },
+            "gerakan_bola": {
+                "right": "",
+                "left": ""
+            },
+            "kedudukan": {
+                "right": "",
+                "left": ""
+            },
+            "palpebra": {
+                "right": "",
+                "left": ""
+            },
+            "conjuctiva": {
+                "right": "",
+                "left": ""
+            },
+            "kornea": {
+                "right": "",
+                "left": ""
+            },
+            "bilik_mata": {
+                "right": "",
+                "left": ""
+            },
+            "pupil": {
+                "right": "",
+                "left": ""
+            },
+            "iris": {
+                "right": "",
+                "left": ""
+            },
+            "lensa": {
+                "right": "",
+                "left": ""
+            },
+            "vitreous": {
+                "right": "",
+                "left": ""
+            },
+            "fundus": {
+                "right": "",
+                "left": ""
+            },
+            "tekanan_bola": {
+                "right": "",
+                "left": ""
+            },
+            "lapang_pandang": {
+                "right": "",
+                "left": ""
+            }
+        },
+        "pemeriksaan_penunjang": "Tidak ada pemeriksaan lainnya",
+        "diagnosa_list": [
+            {
+                "icd_x": "PAH",
+                "nama_sebab_sakit": "Pizza Aku Hamil"
+            }
+        ],
+        "diagnosa_banding": {
+            "icd_x": "POK",
+            "deskripsi": "Pala Otak Kau"
+        },
+        "permasalahan_medis": "Tidak ada aman aman saja",
+        "permasalahan_keperawatan": "Amana selama pemeriksaan",
+        "rencana_tata": {
+            "farmaka": "-",
+            "non_farmaka": "rujuk ahli vitreoretina"
+        },
+        "nama_dpjp": "Dr. Strange",
+        "digital_signature": {
+            "ttd_dokter": "193-dr. Tamara Sari H, Sp.M-1670552666636"
+        } }
